@@ -1,0 +1,7 @@
+run_init_setup()
+create_cloud_account()
+delete_cloud_account()
+create_gw()
+delete_gw()
+create_site2cloud()
+delete_site2cloud()

@@ -1,0 +1,9 @@
+create_iam_policy()
+
+create_iam_role()
+
+create_iam_instance_profile()
+
+create_ec2_instance()
+
+create_vpc()
